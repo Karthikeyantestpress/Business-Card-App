@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BusinessCardApp</string>
+    <string name="username">Karthikeyan</string>
+    <string name="career">Software Developer</string>
+    <string name="phone">8939318100</string>
+    <string name="social">Import Dev</string>
+    <string name="email">Karthikeyan@testpress.in</string>
 </resources>
